@@ -12,8 +12,6 @@
 
 #include <QCoreApplication>
 #include <QtNetwork>
-#include "ModbusFrame.h"
-#include "ModbusServer.h"
 
 class mbPollThread;
 
